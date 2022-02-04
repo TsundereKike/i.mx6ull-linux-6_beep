@@ -1,3 +1,11 @@
 /obj
 imxdownload
 load.imx
+/*
+    git init
+    git add .
+    git commit -m "xxx"
+    git remote set-url origin https://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@github.com/TsundereKike/i.mx6ull-linux-6_beep.git
+    git branch -M ***
+    git push -u origin ***
+*/
